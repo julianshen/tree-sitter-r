@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-4df8f994cb874a21ef127a05b62e9c81 /home/runner/work/tree-sitter-r/tree-sitter-r/src/parser.c
-3f4af61d9dbce1f3b04bf77799624661 CMakeFiles/ts-test

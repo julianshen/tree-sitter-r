@@ -1,1 +1,0 @@
-/tmp/codeql-scratch-2c3bc9e726bd107b/dbs/cpp/working/autobuild/bin/cc -fPIC -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/tree-sitter-r.dir/link.d -shared -Wl,-soname,libtree-sitter-r.so.14.1 -o libtree-sitter-r.so.14.1 "CMakeFiles/tree-sitter-r.dir/src/parser.c.o" "CMakeFiles/tree-sitter-r.dir/src/scanner.c.o"
