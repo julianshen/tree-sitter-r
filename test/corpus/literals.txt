@@ -565,6 +565,7 @@ Hexadecimal with decimal point
 # Decimal point without exponent
 0x1.234
 0x1.
+0x1234.
 
 # Decimal point with exponent
 0x1.234p0
@@ -578,6 +579,7 @@ Hexadecimal with decimal point
 
 (program
   (comment)
+  (float)
   (float)
   (float)
   (comment)
