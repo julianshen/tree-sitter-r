@@ -1,4 +1,4 @@
-module github.com/r-lib/tree-sitter-r
+module github.com/julianshen/tree-sitter-r
 
 go 1.23
 
